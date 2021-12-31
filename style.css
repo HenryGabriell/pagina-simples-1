@@ -1,0 +1,84 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+.principal {
+    font-family: 'Concert One', 'cursive';
+    font-size: 25px;
+    color: white;
+    height: 85vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    letter-spacing: 5px;
+}
+
+.principal .botao a{
+    font-size: 20px;
+    padding: 10px 15px;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 7px;
+    margin-top: 20px;
+    letter-spacing: 1px;
+}
+
+.principal .botao a:hover{
+    color: rgb(37, 36, 36);
+    background-color: white;
+}
+
+header{
+    width: 100%;
+    height: 100vh;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url(fundo-gamer.jpg);
+    background-size: cover;
+    padding: 10px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    transition: 0.3s;
+}
+a:hover{
+    opacity: 0.9;
+    border-radius: 5px;
+}
+
+.logo{
+    font-size: 28px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.nav-list li :hover{
+    background-color: white;
+    color: black;
+    padding: 8px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 9vh;
+}
+
+.nav-list{
+    list-style: none;
+    display: flex;
+    padding-left: 500px;
+}
+
+.nav-list li{
+    letter-spacing: 3px;
+    margin-left: 32px;
+}
