@@ -2,7 +2,7 @@
 <br>
 apenas html e css
 <hr>
-<img align="center" alt="Henry-HTML" height="250" width="500" src="https://user-images.githubusercontent.com/96191361/147854284-fa89c375-1859-461d-9415-88a32c69a36b.png">
+<img align="center" alt="Henry-HTML" height="280" width="530" src="https://user-images.githubusercontent.com/96191361/147854284-fa89c375-1859-461d-9415-88a32c69a36b.png">
 Podem Usar 😉 
 <br>
 <br>
